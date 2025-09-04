@@ -3,17 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sho10381&label=Profile%20views&color=0e75b6&style=flat" alt="sho10381" /> </p>
 
-- 🔭 I’m currently working on **Surveillance system using CNN**
+- 🔭 I’m currently working on **API Fuzzing**
 
-- 🌱 I’m currently learning **tensorflow &**
+- 🌱 I’m currently learning **Penteration Testing & Reverse Engineering**
 
 - 📝 I regularly write articles on [https://medium.com/@shauryasinghrathore419](https://medium.com/@shauryasinghrathore419)
 
-- 💬 Ask me about **pandas, OOP's, Database management**
+- 💬 Ask me about **Networking, OOP's and Cybersecurity**
 
 - 📫 How to reach me **shauryasinghrathore419@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r9zA7zOXTAJ6NbYIPI8Ej04EL-m9AYZf/view?usp=drive_link](https://drive.google.com/file/d/1r9zA7zOXTAJ6NbYIPI8Ej04EL-m9AYZf/view?usp=drive_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
